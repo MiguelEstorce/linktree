@@ -1,4 +1,5 @@
-![GitHub License](https://img.shields.io/github/license/Estorce00/linktree?style=plastic)
+![GitHub License](https://img.shields.io/github/license/Miguel%20Estorce/linktree?style=plastic)
+
 
 
 # Linktree
